@@ -1,8 +1,10 @@
-// Arch10001
 // I know this crossmap is messy but it should work for now, and it should get your menu up and running, I will be updating it and if your not happy with it wait for someone to
 upload a new one ;)
-// AS OF RIGT NOW THIS CROSSMAP DOES NOT WORK FOR ANY NANO BASE IF YOU HAVE NANO YOU ARE GING TO NEED TO WAIT FOR SOMONEONE ELSE AND/OR ME TO MAKE A BETTER CROSSMAP
+// if your game is crashing when injecting try to update your gamestate sig = 48 85 C9 74 4B 83 3D
 
+// this crossmap may not work for nano base if that is the case your ganna have to wait for a better up-to-date-crossmap or find out what is crashing your game and fix it yourself
+
+// Arch10001
 
 0x1CA59E306ECB80A5, 0x35BEDD7AFD26FCD5,
 0x57D158647A6BFABF, 0x41BB6B0BDB7933FF,
